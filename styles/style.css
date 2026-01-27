@@ -1,3 +1,8 @@
 .navber{
-    color: aqua;
+    display: flex; 
+}
+
+.h5{
+    color: rgba(0, 103, 71, 1);
+    
 }
