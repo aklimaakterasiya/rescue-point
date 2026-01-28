@@ -1,8 +1,11 @@
 .navber{
     display: flex; 
 }
-
-.h5{
+h5{
     color: rgba(0, 103, 71, 1);
-    
+    padding: 27px 120px 27px 0;
+}
+
+.navber img{
+    padding: 25px 60px 25px 2px;
 }
