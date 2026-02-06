@@ -11,6 +11,10 @@ h5 {
     padding: 25px 60px 25px 2px;
 }
 
+.banner{
+    background-color:rgba(1.25, 49.64, 34.61, 1),rgba(0, 103, 71, 1) 49.99%,rgba(1, 50, 35, 1);
+}
+
 .emergency,
 h2 {
     font-size: 24px;
