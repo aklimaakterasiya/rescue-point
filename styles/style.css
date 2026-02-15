@@ -35,4 +35,5 @@ h6 {
 
 .emergency{
     display: flex;
+    gap: 5px;
 }
