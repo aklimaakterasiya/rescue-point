@@ -17,6 +17,7 @@ h5 {
 
 .banner{
     display: flex;
+    justify-content: space-between;
 }
 
 .emergency,
